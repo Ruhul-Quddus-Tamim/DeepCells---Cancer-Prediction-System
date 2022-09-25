@@ -1,1 +1,7 @@
-# DeepCells---Cancer-Prediction-System
+# DeepCells - Cancer-Prediction-System
+
+In 2022, cancer claimed the lives of 9.6 million individuals around the world, as per the data provided by WHO(World Health Organization). 
+
+In addition, 0.3 million new cancer cases are detected each year in children aged 0 to 19. Cancer is one of the deadliest diseases that a person can contract. On the plus side, if cancer is identified at an early stage, roughly half (50%) of cancer can be prevented and treated. Otherwise, it may lead to a very critical situation and may even cause death. Lung cancer is among the most common genetic diseases that thousands of people die from each year. It develops in human body due to damage of normal genes caused by many reasons such as smoking cigarette, which chemically activate the oncogenes and deactivate the tumor suppressor the normal lung cell and produce mutations that result in tumors. This create a critical need for robust, fast, sensitive diagnostic tests. Therefore, it has become very important to develop a necessary system or technology that can help doctors detect cancer at an early stage where it can be treated effectively.  
+
+To solve this problem using artificial intelligence, an intelligent system is very much needed. The proposed system here is the Cancer Prediction System using the Naive Bayes Machine Learning algorithm. This system takes a statistical approach by employing probabilistic & optimization techniques to draw out a result based on past data-sets. This evaluation technique aims at helping doctors & pathologists to detect cancer at an early stage where it can be prevented & cured, thereby saving many lives.
