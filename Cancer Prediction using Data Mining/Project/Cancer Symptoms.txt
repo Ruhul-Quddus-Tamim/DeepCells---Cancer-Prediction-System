@@ -1,0 +1,58 @@
+****Bladder Cancer****
+
+--Blood or blood clots in the urine : Yes/No
+
+--Urination visit in a Day : Enter Value
+
+
+****Breast Cancer****
+
+--Change shape of the breast : Yes/No
+
+--Skin irritation near Breast: Yes/No
+
+
+****Lung Cancer****
+
+--Chest pain : Low, Moderate or high
+
+--Coughing up blood : Yes/No
+
+
+****Oral and Oropharyngeal Cancer****
+
+--Pain/Itching in the mouth: Yes/No
+
+--How many Red/white patch on the gums : Enter Value
+
+--Difficulty chewing, swallowing : Yes/No
+
+
+****Brain Tumor****
+
+--How many times Headaches occurs? Enter value
+
+--Nausea or vomiting ? Enter Value
+
+--Memory problems : Yes/No
+
+
+****Skin Cancer****
+
+--How many reddish, raised patch on Skin? Enter Value
+
+--Size of patch : Small, medium or large.
+
+
+****Stomach Cancer****
+
+--Digestion or heartburn: Yes/No
+
+--Bloating of the stomach after meals : Yes/No
+
+
+****Liver Cancer****
+
+--Pain, near the right shoulder blade, or in the back : Low, Moderate, High
+
+--How much Unexplained weight loss: Enter Value
