@@ -1,4 +1,4 @@
-# DeepCells - Cancer-Prediction-System
+# DeepCells - Cancer Prediction System
 
 In 2022, cancer claimed the lives of 9.6 million individuals around the world, as per the data provided by WHO(World Health Organization). 
 
